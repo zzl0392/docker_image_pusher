@@ -1,5 +1,8 @@
-alpine
 portainer/portainer-ce
+bitnami/postgresql-repmgr:14
+bitnami/pgpool:4
+
+
 
 #nginx
 #@支持私库
