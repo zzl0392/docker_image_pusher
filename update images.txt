@@ -1,5 +1,5 @@
 nginx
-portainer-ce
+#portainer-ce
 #bitnami/postgresql-repmgr:14
 #bitnami/pgpool:4
 
